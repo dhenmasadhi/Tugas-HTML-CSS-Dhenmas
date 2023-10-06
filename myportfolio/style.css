@@ -1,0 +1,19 @@
+/* :root {
+  --bg: #f2f5f9;
+  --secondary: #ff9c1a;
+  --accent: #ec1b09;
+} */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  outline: none;
+  border: none;
+  text-decoration: none;
+}
+
+body {
+  background-color: var(--bg);
+  color: black;
+}
